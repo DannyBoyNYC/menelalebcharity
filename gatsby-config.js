@@ -17,14 +17,14 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'GCN',
+    title: 'Menelalebcharity',
     description:
-      'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
-    siteUrl: 'https://gcn.netlify.com',
+      'Menelalebcharity is a charity to aid survivors of the Beruit 2020 explosion',
+    siteUrl: 'https://menelalebcharity.org',
     image: '/images/share.jpg',
     menuLinks: [
       {
-        name: 'Home',
+        name: 'Menelalebcharity',
         slug: '/',
       },
       {
